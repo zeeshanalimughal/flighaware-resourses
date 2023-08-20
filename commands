@@ -1,0 +1,5 @@
+frontend:
+docker-compose --profile python up
+
+backend:
+docker-compose run --rm python-backend bash

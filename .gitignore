@@ -1,0 +1,6 @@
+__pycache__/
+.env
+venv/
+.python-version
+.mypy_cache/
+**/target/
